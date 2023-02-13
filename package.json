@@ -1,5 +1,5 @@
 {
-  "_from": "git+https://github.com/mrenigman/telegraf.git",
+  "_from": "git+https://github.com/GhostWalkers/Telegraf.git",
   "_id": "telegraf@3.38.0",
   "_inBundle": false,
   "_integrity": "",
@@ -7,10 +7,10 @@
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "https://github.com/mrenigman/telegraf",
-    "rawSpec": "https://github.com/mrenigman/telegraf",
-    "saveSpec": "git+https://github.com/mrenigman/telegraf.git",
-    "fetchSpec": "https://github.com/mrenigman/telegraf.git",
+    "raw": "https://github.com/GhostWalkers/Telegraf",
+    "rawSpec": "https://github.com/GhostWalkers/Telegraf",
+    "saveSpec": "git+https://github.com/GhostWalkers/Telegraf.git",
+    "fetchSpec": "https://github.com/GhostWalkers/Telegraf.git",
     "gitCommittish": null
   },
   "_requiredBy": [
@@ -18,8 +18,8 @@
     "#USER",
     "/telegraf-calendar-telegram"
   ],
-  "_resolved": "git+https://github.com/mrenigman/telegraf.git#f74c9dd7f2a1f7870a943f00c3254caad5493493",
-  "_spec": "https://github.com/mrenigman/telegraf",
+  "_resolved": "git+https://github.com/GhostWalkers/Telegraf.git",
+  "_spec": "https://github.com/GhostWalkers/Telegraf",
   "_where": "E:\\Projects\\adverthelper",
   "author": {
     "name": "Vitaly Domnikov",
